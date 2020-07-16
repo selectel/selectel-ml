@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: selectel-ml
+  labels:
+    app: selectel-ml
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: selectel-ml
+  template:
+    metadata:
+      labels:
+        app: selectel-ml
+    spec:
+      containers:
+      - name: selectel-ml
+        image: selectel/selectel-ml
+        ports:
+        - containerPort: 8888
