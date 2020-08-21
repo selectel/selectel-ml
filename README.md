@@ -39,12 +39,12 @@ To expose port use command
 ``` kubectl expose deployment selectel-ml --type=LoadBalancer --name=my-service ```
 
 ## How to access
-Running containeer will expose 8888 port with Jupyter noteboks WebUI, with default password \
+Running container will expose 8888 port with Jupyter noteboks WebUI, with default password \
 ```9lG0eXCevt```
 
 For password changing instructions see [Jupyter documentation](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html) 
 
-## Containeer information
+## Container information
 
 ### General
 Python 3.6.9 installed on Ubuntu 18.04
