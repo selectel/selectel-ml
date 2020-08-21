@@ -1,5 +1,3 @@
-# :warning: Currently in beta state :warning:
-
 ## Runnning on local docker
 ```
 $ docker run -d -p 8888:8888 selectel/selectel-ml
