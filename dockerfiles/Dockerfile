@@ -168,7 +168,6 @@ RUN pip3 install \
     pygobject==3.26.1 \ 
     pyparsing==2.4.7 \ 
     pyrsistent==0.17.3 \ 
-    python-apt==1.6.5+ubuntu0.5 \ 
     python-dateutil==2.8.1 \ 
     python-debian==0.1.32 \ 
     pytz==2021.1 \ 
