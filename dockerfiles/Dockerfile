@@ -118,7 +118,6 @@ RUN pip3 install \
     keras-nightly==2.5.0.dev2021032900 \ 
     Keras-Preprocessing==1.1.2 \ 
     kiwisolver==1.3.1 \ 
-    language-selector==0.1 \ 
     lightgbm==3.2.1 \ 
     Mako==1.0.7 \ 
     Markdown==3.3.4 \ 
