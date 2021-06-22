@@ -75,7 +75,6 @@ RUN pip3 install \
     dataclasses==0.8 \ 
     decorator==4.4.2 \ 
     defusedxml==0.7.1 \ 
-    distro-info==0.18ubuntu0.18.04.1 \ 
     entrypoints==0.3 \ 
     fastai==2.4 \ 
     fastcore==1.3.20 \ 
