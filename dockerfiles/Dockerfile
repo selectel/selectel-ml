@@ -213,7 +213,6 @@ RUN pip3 install \
     typer==0.3.2 \ 
     typing==3.7.4.3 \ 
     typing-extensions==3.7.4.3 \ 
-    unattended-upgrades==0.1 \ 
     urllib3==1.26.5 \ 
     vispy==0.6.6 \ 
     wasabi==0.8.2 \ 
@@ -221,13 +220,11 @@ RUN pip3 install \
     webencodings==0.5.1 \ 
     websocket-client==1.1.0 \ 
     Werkzeug==2.0.1 \ 
-    wheel==0.36.2 \ 
     widgetsnbextension==3.5.1 \ 
     wrapt==1.12.1 \ 
     xgboost==1.4.2 \ 
     youtube-dl==2021.6.6 \ 
     zipp==3.4.1 \ 
-
     && rm -rf ~/.cache/pip
 
 RUN ln -s /usr/bin/python3 /usr/bin/python
