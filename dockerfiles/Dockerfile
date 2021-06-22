@@ -33,6 +33,7 @@ RUN apt-get install \
     libxml2-dev \
     libxslt1-dev \
     zlib1g-dev \
+    command-not-found \
     -y \
     && apt-get clean \
     && rm -rf /var/cache/apt/
