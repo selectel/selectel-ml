@@ -213,7 +213,6 @@ RUN pip3 install \
     typer==0.3.2 \ 
     typing==3.7.4.3 \ 
     typing-extensions==3.7.4.3 \ 
-    ubuntu-advantage-tools==27.0 \ 
     unattended-upgrades==0.1 \ 
     urllib3==1.26.5 \ 
     vispy==0.6.6 \ 
