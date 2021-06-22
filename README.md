@@ -72,7 +72,6 @@ certifi                 2021.5.30
 cffi                    1.14.5
 chardet                 3.0.4
 click                   7.1.2
-command-not-found       0.3
 contextvars             2.4
 cycler                  0.10.0
 cymem                   2.0.5
@@ -80,7 +79,6 @@ Cython                  0.29.23
 dataclasses             0.8
 decorator               4.4.2
 defusedxml              0.7.1
-distro-info             0.18ubuntu0.18.04.1
 entrypoints             0.3
 fastai                  2.4
 fastcore                1.3.20
@@ -175,7 +173,6 @@ Pygments                2.9.0
 pygobject               3.26.1
 pyparsing               2.4.7
 pyrsistent              0.17.3
-python-apt              1.6.5+ubuntu0.5
 python-dateutil         2.8.1
 python-debian           0.1.32
 pytz                    2021.1
@@ -206,7 +203,7 @@ tensorboard-data-server 0.6.1
 tensorboard-plugin-wit  1.8.0
 tensorboardX            2.2
 tensorflow-estimator    2.5.0
-tensorflow-gpu          2.5.0
+tensorflow              2.5.0
 termcolor               1.1.0
 terminado               0.10.1
 testpath                0.5.0
@@ -221,8 +218,6 @@ transforms3d            0.3.1
 typer                   0.3.2
 typing                  3.7.4.3
 typing-extensions       3.7.4.3
-ubuntu-advantage-tools  27.0
-unattended-upgrades     0.1
 urllib3                 1.26.5
 vispy                   0.6.6
 wasabi                  0.8.2
